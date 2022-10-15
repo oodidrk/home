@@ -3,46 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <title>취업 정보 계정 만들기</title>
+    <style>
+        #st {background: lightblue;
+            padding-left : 10px;
+            font-weight: bold;
+            width:800px;}
+        mid {display:inline-block;
+            margin-left: 8px;
+            text-align: right;
+            width: 130px;
+            padding-right: 8px;}
+        point {color:red;}
+    </style>
 </head>
 <body>
 <h2>취업 정보 계정 만들기</h2>
-
 <form name = "fo" method = "get">
-    * 필수 입력 항목 <br>
+    <p style="color:red; font-size:10pt">* 필수 입력 항목</p> <br>
     <br>
-    기본 정보<br>
+    <div id="st">기본 정보</div><br>
+    <mid>이름<point>*</point> </mid><input type ="text" size="8"><br>
+    <mid>이메일<point>*</point> </mid><input type="email" size="15" placeholder="id@domain_name"><br>
+    <mid>암호<point>*</point> </mid><input type="password" size="12"><br>
+    <mid>암호 확인<point>*</point> </mid><input type="password" size="12"><br>
+    <mid>모바일 폰<point>*</point> </mid><input type="tel" size="13" placeholder="010-0000-0000"><br>
+    <mid>개인 홈페이지 </mid><input type="url" size="30" placeholder="http://"><br>
+    <mid>주소<point>*</point></mid><input type="text" size="30"><br>
     <br>
-    이름* <input type ="text" size="8"><br>
-    이메일* <input type="email" size="15" placeholder="id@domain_name"><br>
-    암호* <input type="password" size="12"><br>
-    암호 확인* <input type="password" size="12"><br>
-    모바일 폰* <input type="tel" size="13" placeholder="010-0000-0000"><br>
-    개인 홈페이지 <input type="url" size="30" placeholder="http://"><br>
-    주소* <input type="text" size="30"><br>
-    <br>
-    학 력<br>
-    <br>
-    학교 명* <input type="text" size="12"><br>
-    전공* <input type="text" size="12"><br>
-    졸업 여부*
+    <div id="st">학 력</div><br>
+    <mid>학교 명<point>*</point> </mid> <input type="text" size="12"><br>
+    <mid>전공<point>*</point> </mid> <input type="text" size="12"><br>
+    <mid>졸업 여부<point>*</point> </mid>
     <select name="졸업 여부">
         <option value="1">---선택---</option>
         <option value="2">졸업예정</option>
         <option value="3">졸업</option>
     </select><br>
-    졸업(예정)일 <input type="date"><br>
+    <mid>졸업(예정)</mid> <input type="date"><br>
     <br>
-    업무 경력<br>
+    <div id="st">업무 경력</div><br>
     <br>
-    근무업체명 <input type="text" size="20"><br>
-    직위 <input type="text" size="10"><br>
-    담당 업무 <textarea cols="80" rows="10">이전 업체에서 담당한 업무를 기술하시오.</textarea><br>
-    근무년수 <input type="number" min="0" max="10" step="0.5">년<br>
+    <mid>근무업체명</mid> <input type="text" size="20"><br>
+    <mid>직위</mid> <input type="text" size="10"><br>
+    <mid>담당 업무</mid> <textarea cols="80" rows="10">이전 업체에서 담당한 업무를 기술하시오.</textarea><br>
+    <mid>근무년수</mid> <input type="number" min="0" max="10" step="0.5">년<br>
     <br>
-    자기소개서<br>
+    <div id="st">자기소개서</div><br>
     <br>
-    첨부 파일 <input type="file"><br>
-    <input type="submit" value="제출"> <input type="reset" value="재작성">
+    <mid>첨부 파일</mid> <input type="file"><br>
+    <a style="margin-left: 200px"><input type="submit" value="제출"> <input type="reset" value="재작성"></a>
 
 
 
