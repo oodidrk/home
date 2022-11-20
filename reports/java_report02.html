@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>높이를 부여받은 파스칼 삼각형</title>
+    <script>
+        function new_row(prev_row){
+            var triangle = [];
+            var size = prev_row.length;
+            for (var i=0; i<size+1; i++) {
+                if (i == 0 || i == size) {
+                    triangle[i] = 1;
+                } else {
+                    triangle[i] = parseInt(prev_row[i]) + parseInt(prev_row[i-1]);
+            }
+            }
+            return triangle;
+        }
+    </script>
+</head>
+<body>
+<script>
+    var h = prompt("원하는 파스칼 삼각형의 높이는 ? : ")
+    h = parseInt(h)
+
+    var first = [1];
+    var next = new Array();
+
+    document.write(first[0]+'<br>');
+    for (var i = 1; i<h; i++){
+        next = new_row(first);
+        first = next ;
+        for (var k=0; k<next.length; k++){
+            document.write(next[k]+" ");
+        }
+        document.write("<br>");
+    }
+</script>
+</body>
+</html>
