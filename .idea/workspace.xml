@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="assets.html">
-      <change afterPath="$PROJECT_DIR$/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/changelog.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms/Readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/forms/contact.php" afterDir="false" />
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="workspace.xml">
       <change afterPath="$PROJECT_DIR$/lab/lab11_01.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab/lab11_02.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab/lab11_03.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab/lab11_04.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab/lab11_05.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/lab/lab11_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/portfolio-details.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/reports/javareport01.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/webreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/webreport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +120,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="31767000" />
+      <workItem from="1668441046085" duration="33131000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -272,7 +269,42 @@
       <option name="project" value="LOCAL" />
       <updated>1670301579773</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="form.html">
+      <created>1670301629272</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301629272</updated>
+    </task>
+    <task id="LOCAL-00023" summary="changelog">
+      <created>1670301702432</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301702432</updated>
+    </task>
+    <task id="LOCAL-00024" summary="detail">
+      <created>1670301739221</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301739221</updated>
+    </task>
+    <task id="LOCAL-00025" summary="readme">
+      <created>1670301761427</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301761427</updated>
+    </task>
+    <task id="LOCAL-00026" summary="workspace.xml">
+      <created>1670301837305</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301837305</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,7 +342,12 @@
     <MESSAGE value="index_.html" />
     <MESSAGE value="idea.html" />
     <MESSAGE value="assets.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="assets.html" />
+    <MESSAGE value="form.html" />
+    <MESSAGE value="changelog" />
+    <MESSAGE value="detail" />
+    <MESSAGE value="readme" />
+    <MESSAGE value="workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
