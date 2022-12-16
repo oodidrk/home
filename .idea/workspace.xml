@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="workspace.xml">
-      <change afterPath="$PROJECT_DIR$/lab/lab11_01.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/lab11_02.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/lab11_03.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/lab11_04.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/lab11_05.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab/lab11_06.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reports/javareport01.js" afterDir="false" />
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index.html">
+      <change afterPath="$PROJECT_DIR$/assets/img/2022image.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webreport.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/webreport.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +48,11 @@
       <recent name="C:\Users\apple\pythonProject3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\apple\pythonProject3\assets\img" />
+      <recent name="C:\Users\apple\pythonProject3\assets\img\testimonials" />
       <recent name="C:\Users\apple\pythonProject3\all\.idea" />
       <recent name="C:\Users\apple\pythonProject3\all" />
       <recent name="C:\Users\apple\pythonProject3\포토폴리오" />
-      <recent name="C:\Users\apple\pythonProject3\reports" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.lab02.html">
@@ -120,7 +114,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="33131000" />
+      <workItem from="1668441046085" duration="33906000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -304,7 +298,21 @@
       <option name="project" value="LOCAL" />
       <updated>1670301837305</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="workspace.xml">
+      <created>1670302982131</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1670302982131</updated>
+    </task>
+    <task id="LOCAL-00028" summary="index.html">
+      <created>1670303102761</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1670303102761</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,7 +335,6 @@
     <MESSAGE value="두 번째 webreport.html 에 대한 commit" />
     <MESSAGE value="html 과제2 (20200533 박지수)" />
     <MESSAGE value="첫 번째 webreport01.html에 대한 commit" />
-    <MESSAGE value="index.html" />
     <MESSAGE value="두번째 과제 webreport.html" />
     <MESSAGE value="lab01.html" />
     <MESSAGE value="lab02.html" />
@@ -347,7 +354,8 @@
     <MESSAGE value="detail" />
     <MESSAGE value="readme" />
     <MESSAGE value="workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace.xml" />
+    <MESSAGE value="index.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="index.html" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
