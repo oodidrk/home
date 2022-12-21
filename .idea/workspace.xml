@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index3">
-      <change afterPath="$PROJECT_DIR$/assets/img/IMG_7553.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/IMG_7554.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/draw1.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/draw2.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/draw3.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/draw4.JPG" afterDir="false" />
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="report1">
+      <change afterPath="$PROJECT_DIR$/lab/lab04.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,7 +115,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="43118000" />
+      <workItem from="1668441046085" duration="48992000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -359,7 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671377139812</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="index4">
+      <created>1671381775236</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1671381775236</updated>
+    </task>
+    <task id="LOCAL-00036" summary="report1">
+      <created>1671617633072</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1671617633072</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,8 +388,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="첫 번째 webreport01.html에 대한 commit" />
-    <MESSAGE value="두번째 과제 webreport.html" />
     <MESSAGE value="lab01.html" />
     <MESSAGE value="lab02.html" />
     <MESSAGE value="과제3-1.html" />
@@ -403,7 +411,9 @@
     <MESSAGE value="image1" />
     <MESSAGE value="index" />
     <MESSAGE value="index3" />
-    <option name="LAST_COMMIT_MESSAGE" value="index3" />
+    <MESSAGE value="index4" />
+    <MESSAGE value="report1" />
+    <option name="LAST_COMMIT_MESSAGE" value="report1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
