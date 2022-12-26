@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index6">
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -113,7 +113,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="54728000" />
+      <workItem from="1668441046085" duration="59255000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -388,7 +388,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671630159157</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="index7">
+      <created>1671895997630</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1671895997631</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -407,7 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="과제3-2.html" />
     <MESSAGE value="과제 4.html" />
     <MESSAGE value="과제 04.html" />
     <MESSAGE value="과제 004.html" />
@@ -432,7 +438,8 @@
     <MESSAGE value="css style" />
     <MESSAGE value="index5" />
     <MESSAGE value="index6" />
-    <option name="LAST_COMMIT_MESSAGE" value="index6" />
+    <MESSAGE value="index7" />
+    <option name="LAST_COMMIT_MESSAGE" value="index7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
