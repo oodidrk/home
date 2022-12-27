@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index7">
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index8">
+      <change afterPath="$PROJECT_DIR$/assets/img/drama_bumsu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/drama_eunjung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/drama_hanju.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/drama_jeahun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/drama_jinju.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -113,7 +118,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="59255000" />
+      <workItem from="1668441046085" duration="63781000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -395,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671895997631</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="index8">
+      <created>1672069959480</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1672069959481</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -414,7 +426,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="과제 4.html" />
     <MESSAGE value="과제 04.html" />
     <MESSAGE value="과제 004.html" />
     <MESSAGE value="박지수" />
@@ -439,7 +450,8 @@
     <MESSAGE value="index5" />
     <MESSAGE value="index6" />
     <MESSAGE value="index7" />
-    <option name="LAST_COMMIT_MESSAGE" value="index7" />
+    <MESSAGE value="index8" />
+    <option name="LAST_COMMIT_MESSAGE" value="index8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
