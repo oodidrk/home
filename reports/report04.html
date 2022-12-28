@@ -8,20 +8,10 @@
     <script src="http://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
     <script>
         function transform(){
-            var binary=document.getElementById("digit").value;
-            var sixteen=parseInt(binary,2);
-            if (binary.length==4 && isFinite(binary)){
-                if (sixteen <=9 && sixteen >=0) {
-                    document.getElementById("hexanum").value = sixteen;
-            }else if( sixteen>9 && sixteen <=16 ){
-                var alpha = ['A','B','C','D','E','F'];
-                for(var i=0; i<=alpha.length; i++){
-                    if(sixteen-10==i){
-                       document.getElementById("hexanum").value = alpha[i];
-                        }
-                    }
-                }
-            }
+            var digit = document.getElementById("digit").value;
+            var decimal = parseInt(digit, 2);
+            var hex = decimal.toString(16).toUpperCase();
+            document.getElementById('hexanum').value = hex;
         }
         function pascals() {
             var h = document.getElementById("size").value;

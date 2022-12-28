@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index8">
-      <change afterPath="$PROJECT_DIR$/assets/img/drama_bumsu.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/drama_eunjung.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/drama_hanju.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/drama_jeahun.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/drama_jinju.jpg" afterDir="false" />
+    <list default="true" id="4805af66-9bc2-4dcd-9aa9-f782e6e02c41" name="Changes" comment="index9">
+      <change afterPath="$PROJECT_DIR$/assets/img/doll.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/dream.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/radio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/sad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/snailo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/whale.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/bootlab01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/bootlab2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab06.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab07.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab08.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab09.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab/lab11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/java_report01.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/java_report01.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reports/report04.html" beforeDir="false" afterPath="$PROJECT_DIR$/reports/report04.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +130,7 @@
       <workItem from="1665122094434" duration="48000" />
       <workItem from="1665122206794" duration="3773000" />
       <workItem from="1665127956569" duration="12226000" />
-      <workItem from="1668441046085" duration="63781000" />
+      <workItem from="1668441046085" duration="69862000" />
     </task>
     <task id="LOCAL-00001" summary="첫 번째 webreport.html 에 대한 commit">
       <created>1665124730674</created>
@@ -407,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672069959481</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="index9">
+      <created>1672152269709</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1672152269710</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="과제 04.html" />
     <MESSAGE value="과제 004.html" />
     <MESSAGE value="박지수" />
     <MESSAGE value="포토폴리오" />
@@ -451,7 +469,8 @@
     <MESSAGE value="index6" />
     <MESSAGE value="index7" />
     <MESSAGE value="index8" />
-    <option name="LAST_COMMIT_MESSAGE" value="index8" />
+    <MESSAGE value="index9" />
+    <option name="LAST_COMMIT_MESSAGE" value="index9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -460,12 +479,6 @@
           <url>file://$PROJECT_DIR$/main.py</url>
           <line>8</line>
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/reports/report04.html</url>
-          <line>20</line>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
